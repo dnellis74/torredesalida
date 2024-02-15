@@ -49,6 +49,30 @@ There are about half a dozen hot springs nearby, most within 30 minutes.  The ar
 ### Nordic skiing
 There is lots of great nordic skiing nearby.  Rentals are available from Salida Mountain Sports
 
+> Rental Rates 2023-2024
+Daily Rate
+Tele/AT/ Ski Only $35
+Tele/AT Boot Only $30
+Tele/AT Ski/Boot Pkg $60
+Cross-Country Pkg. Adult $40
+Cross-Country Pkg. Kid $30
+Cross-Country Ski Only $25
+Cross-Country Boot Only $20
+Snowshoes (with poles) Adult $25
+Snowshoes (with poles) Kid $15
+Poles (Adj. or Nordic) $5
+Shovel $5
+Probe $5
+Skins $10
+Kid/Gear Sled $20
+Rental Policies
+*Renters must pay FULL RETAIL for gear broken beyond repair or lost gear. Customer keeps broken
+*Credit card # taken for deposit. This covers lost or broken gear. Won't be run unless needed.
+*Gear can be picked up the evening before (after 5pm) and returned the morning after (by 11am) withc additional charge. If pick-up or return days are late, or whole days, Daily Rate applies.
+*Equipment returned dirty will be charged $10 cleaning fee.
+*Ask about multi-day rates for trips.
+"One day rental credit can be applied to purchase."
+
 [Salida Mountain Sports Rental Menu](https://photos.app.goo.gl/3HWf8ABcmyRksYEK7)
 ##### Bring
  - Winter sports clothing
