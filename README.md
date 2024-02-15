@@ -48,8 +48,8 @@ There are about half a dozen hot springs nearby, most within 30 minutes.  The ar
  - Bag to carry things, unless you want to unnecessarily rent a $5 locker
 ### Nordic skiing
 There is lots of great nordic skiing nearby.  Rentals are available from Salida Mountain Sports
-
-> Rental Rates 2023-2024
+```
+Rental Rates 2023-2024
 Daily Rate
 Tele/AT/ Ski Only $35
 Tele/AT Boot Only $30
@@ -72,7 +72,7 @@ Rental Policies
 *Equipment returned dirty will be charged $10 cleaning fee.
 *Ask about multi-day rates for trips.
 "One day rental credit can be applied to purchase."
-
+```
 [Salida Mountain Sports Rental Menu](https://photos.app.goo.gl/3HWf8ABcmyRksYEK7)
 ##### Bring
  - Winter sports clothing
