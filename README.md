@@ -42,6 +42,7 @@ The house is a 3 bedroom, two car garage downtown Salida townhouse.  All three b
 ### Hot springs
 There are about half a dozen hot springs nearby, most within 30 minutes.  The are mineral water hot springs, and your waterproof phone and watch will get destroyed.
 ##### Bring
+ - Swimsuit
  - Robe
  - Pool towel
  - Pool shoes
