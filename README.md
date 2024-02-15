@@ -49,6 +49,6 @@ There are about half a dozen hot springs nearby, most within 30 minutes.  The ar
 ### Nordic skiing
 There is lots of great nordic skiing nearby.  Rentals are available from Salida Mountain Sports
 
-![Salida Mountain Sports Rental rules](https://photos.app.goo.gl/FnLjupnUbe5YDdyJ8)
+[Salida Mountain Sports Rental Menu](https://photos.app.goo.gl/3HWf8ABcmyRksYEK7)
 ##### Bring
  - Winter sports clothing
